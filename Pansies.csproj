@@ -4,7 +4,7 @@
     <RootNamespace>PoshCode.Pansies</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="System.Management.Automation" Version="6.0.0-alpha17" />
+    <PackageReference Include="System.Management.Automation" Version="6.1.6" />
     <ProjectReference Include=".\lib\ColorMine\ColorMine\ColorMine.csproj" />
     <Compile Remove=".\lib\ColorMine\**"/>
   </ItemGroup>
